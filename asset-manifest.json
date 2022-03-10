@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/componentes/static/css/main.ae5c2e1f.css",
+    "main.js": "/componentes/static/js/main.f8186fab.js",
+    "static/js/787.45953e4c.chunk.js": "/componentes/static/js/787.45953e4c.chunk.js",
+    "static/media/homero.jpeg": "/componentes/static/media/homero.9b34cf9c841007dd1667.jpeg",
+    "index.html": "/componentes/index.html",
+    "main.ae5c2e1f.css.map": "/componentes/static/css/main.ae5c2e1f.css.map",
+    "main.f8186fab.js.map": "/componentes/static/js/main.f8186fab.js.map",
+    "787.45953e4c.chunk.js.map": "/componentes/static/js/787.45953e4c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae5c2e1f.css",
+    "static/js/main.f8186fab.js"
+  ]
+}
